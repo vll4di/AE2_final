@@ -6,13 +6,13 @@ Built as the AE2 coursework submission for **QHO444 – Problem Solving Through 
 ## Screenshots
  
 **Main Menu**
-![Main menu](screenshots/menu.png)
+![Main menu](Screenshots/menu.png)
  
 **Average Rating**
-![Average rating](screenshots/average.png)
+![Average rating](Screenshots/average.png)
  
 **Pie Chart Visualisation**
-![Pie chart](screenshots/pie_chart.png)
+![Pie chart](Screenshots/pie_chart.png)
  
 
 
