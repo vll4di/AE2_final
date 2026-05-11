@@ -3,6 +3,19 @@
 A terminal-based Python application for analysing Disneyland park reviews from a CSV dataset.
 Built as the AE2 coursework submission for **QHO444 – Problem Solving Through Programming** (completed 6 February 2026).
 
+## Screenshots
+ 
+**Main Menu**
+![Main menu](screenshots/menu.png)
+ 
+**Average Score Query**
+![Average score](screenshots/average.png)
+ 
+**Pie Chart Visualisation**
+![Pie chart](screenshots/pie_chart.png)
+ 
+
+
 ## Files
 
 | File | Description |
