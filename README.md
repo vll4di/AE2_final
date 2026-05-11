@@ -8,8 +8,8 @@ Built as the AE2 coursework submission for **QHO444 – Problem Solving Through 
 **Main Menu**
 ![Main menu](screenshots/menu.png)
  
-**Average Score Query**
-![Average score](screenshots/average.png)
+**Average Rating**
+![Average rating](screenshots/average.png)
  
 **Pie Chart Visualisation**
 ![Pie chart](screenshots/pie_chart.png)
