@@ -1,0 +1,5 @@
+Disneyland Data Summary
+=========================
+Disneyland_California: Overall Average = 4.41
+Disneyland_HongKong: Overall Average = 4.2
+Disneyland_Paris: Overall Average = 3.96
